@@ -12,7 +12,7 @@ ViceAI is an advanced AI-powered assistant built on OpenAI's GPT-4. It provides 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/viceagent/vice.git
+   git clone https://github.com/ViceByVirtuals/vice.git
    ```
 
 2. Navigate to the project directory:
